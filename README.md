@@ -1,4 +1,4 @@
 #ALGO-FOODS
-Algo foods is an AI-powered platform designed to provide consumers in Nigeria and Germany with real-time food price information. By aggregating data from various sources, the service helps customers understand the market value of products and directs them to the cheapest available prices, ensuring they can make informed and economical purchasing decisions. at to create a crypto coin.
-#Agri-Ai
+Algo food is a website that is used to analyse crop yield, diseases and other associated problems.
+AgriAI is a subset of Algo foods an AI-powered platform designed to provide consumers in Nigeria and Germany with real-time food price information. By aggregating data from various sources, the service helps customers understand the market value of products and directs them to the cheapest available prices, ensuring they can make informed and economical purchasing decisions. at to create a crypto coin.
 Agri AI is an innovative AI project that creates a global network for farmers. Its core purpose is to facilitate connections and streamline the trade of agricultural produce, allowing farmers to access a wider range of buyers and suppliers, whether they're in their local community or across international borders. This project aims to break down geographical barriers in the agricultural market, also, donation of food and food saving.
